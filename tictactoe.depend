@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563733399 source:c:\users\rakesh\documents\tictactoe\main.cpp
+	<iostream>
+	<math.h>
+	<ctype.h>
+	<cstring>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
